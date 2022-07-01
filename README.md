@@ -4,6 +4,7 @@
 ### tradition Palestanian Dishes
 
 ## Main Course :
+- Mansaf
 - Maqlooba
 - Msakhan
 - Dawali
